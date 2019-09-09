@@ -1,0 +1,1258 @@
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\ApplicationInsights.config
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\WebApi.dll.config
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\WebApi.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\WebApi.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\csc.exe
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\csi.exe
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\BL.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Entities.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Net.Http.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.Cors.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.Http.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\WebGrease.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\DAL.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Clarifai.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\EntityFramework.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\BL.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\BL.dll.config
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Entities.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.Http.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\DAL.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\DAL.dll.config
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\obj\Debug\WebApi.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\ApplicationInsights.config
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\WebApi.dll.config
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\WebApi.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\WebApi.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\csc.exe
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\csc.exe.config
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\csc.rsp
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\csi.exe
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\csi.exe.config
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\csi.rsp
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Console.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\vbc.exe
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\vbc.rsp
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\BL.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Entities.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Net.Http.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.Cors.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.Helpers.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.Http.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.Mvc.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.Optimization.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.Razor.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.WebPages.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\WebGrease.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\DAL.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Clarifai.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\EntityFramework.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\BL.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\BL.dll.config
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Entities.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.Http.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.Helpers.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.Mvc.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.Optimization.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.Razor.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.WebPages.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\DAL.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\DAL.dll.config
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\obj\Debug\WebApi.pdb
+E:\Server_Side\WebApi\bin\ApplicationInsights.config
+E:\Server_Side\WebApi\bin\grpc_csharp_ext.x86.dll
+E:\Server_Side\WebApi\bin\grpc_csharp_ext.x64.dll
+E:\Server_Side\WebApi\bin\libgrpc_csharp_ext.x86.so
+E:\Server_Side\WebApi\bin\libgrpc_csharp_ext.x64.so
+E:\Server_Side\WebApi\bin\libgrpc_csharp_ext.x86.dylib
+E:\Server_Side\WebApi\bin\libgrpc_csharp_ext.x64.dylib
+E:\Server_Side\WebApi\bin\WebApi.dll.config
+E:\Server_Side\WebApi\bin\WebApi.dll
+E:\Server_Side\WebApi\bin\WebApi.pdb
+E:\Server_Side\WebApi\bin\roslyn\csc.exe
+E:\Server_Side\WebApi\bin\roslyn\csc.exe.config
+E:\Server_Side\WebApi\bin\roslyn\csc.rsp
+E:\Server_Side\WebApi\bin\roslyn\csi.exe
+E:\Server_Side\WebApi\bin\roslyn\csi.exe.config
+E:\Server_Side\WebApi\bin\roslyn\csi.rsp
+E:\Server_Side\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Server_Side\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Server_Side\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Server_Side\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Server_Side\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Server_Side\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Server_Side\WebApi\bin\roslyn\System.AppContext.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Console.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Server_Side\WebApi\bin\roslyn\System.IO.Compression.dll
+E:\Server_Side\WebApi\bin\roslyn\System.IO.FileSystem.dll
+E:\Server_Side\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Server_Side\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Server_Side\WebApi\bin\roslyn\System.IO.Pipes.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Security.AccessControl.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Security.Claims.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Server_Side\WebApi\bin\roslyn\System.ValueTuple.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Xml.XPath.dll
+E:\Server_Side\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Server_Side\WebApi\bin\roslyn\vbc.exe
+E:\Server_Side\WebApi\bin\roslyn\vbc.exe.config
+E:\Server_Side\WebApi\bin\roslyn\vbc.rsp
+E:\Server_Side\WebApi\bin\roslyn\VBCSCompiler.exe
+E:\Server_Side\WebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\Server_Side\WebApi\bin\Antlr3.Runtime.dll
+E:\Server_Side\WebApi\bin\BL.dll
+E:\Server_Side\WebApi\bin\Entities.dll
+E:\Server_Side\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Server_Side\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\Server_Side\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Server_Side\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Server_Side\WebApi\bin\Microsoft.AI.Web.dll
+E:\Server_Side\WebApi\bin\Microsoft.AI.WindowsServer.dll
+E:\Server_Side\WebApi\bin\Microsoft.ApplicationInsights.dll
+E:\Server_Side\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Server_Side\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Server_Side\WebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\Server_Side\WebApi\bin\Newtonsoft.Json.dll
+E:\Server_Side\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Server_Side\WebApi\bin\System.Net.Http.dll
+E:\Server_Side\WebApi\bin\System.Net.Http.Formatting.dll
+E:\Server_Side\WebApi\bin\System.Security.Cryptography.Algorithms.dll
+E:\Server_Side\WebApi\bin\System.Security.Cryptography.Encoding.dll
+E:\Server_Side\WebApi\bin\System.Security.Cryptography.Primitives.dll
+E:\Server_Side\WebApi\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Server_Side\WebApi\bin\System.Web.Cors.dll
+E:\Server_Side\WebApi\bin\System.Web.Helpers.dll
+E:\Server_Side\WebApi\bin\System.Web.Http.Cors.dll
+E:\Server_Side\WebApi\bin\System.Web.Http.dll
+E:\Server_Side\WebApi\bin\System.Web.Http.WebHost.dll
+E:\Server_Side\WebApi\bin\System.Web.Mvc.dll
+E:\Server_Side\WebApi\bin\System.Web.Optimization.dll
+E:\Server_Side\WebApi\bin\System.Web.Razor.dll
+E:\Server_Side\WebApi\bin\System.Web.WebPages.Deployment.dll
+E:\Server_Side\WebApi\bin\System.Web.WebPages.dll
+E:\Server_Side\WebApi\bin\System.Web.WebPages.Razor.dll
+E:\Server_Side\WebApi\bin\WebGrease.dll
+E:\Server_Side\WebApi\bin\DAL.dll
+E:\Server_Side\WebApi\bin\Clarifai.dll
+E:\Server_Side\WebApi\bin\EntityFramework.dll
+E:\Server_Side\WebApi\bin\BL.pdb
+E:\Server_Side\WebApi\bin\BL.dll.config
+E:\Server_Side\WebApi\bin\Entities.pdb
+E:\Server_Side\WebApi\bin\System.Net.Http.Formatting.xml
+E:\Server_Side\WebApi\bin\System.Web.Http.xml
+E:\Server_Side\WebApi\bin\System.Web.Http.Cors.xml
+E:\Server_Side\WebApi\bin\Newtonsoft.Json.xml
+E:\Server_Side\WebApi\bin\System.Web.Helpers.xml
+E:\Server_Side\WebApi\bin\System.Web.Http.WebHost.xml
+E:\Server_Side\WebApi\bin\System.Web.Mvc.xml
+E:\Server_Side\WebApi\bin\System.Web.Optimization.xml
+E:\Server_Side\WebApi\bin\System.Web.Razor.xml
+E:\Server_Side\WebApi\bin\System.Web.WebPages.xml
+E:\Server_Side\WebApi\bin\System.Web.WebPages.Deployment.xml
+E:\Server_Side\WebApi\bin\System.Web.WebPages.Razor.xml
+E:\Server_Side\WebApi\bin\Antlr3.Runtime.pdb
+E:\Server_Side\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Server_Side\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Server_Side\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\Server_Side\WebApi\bin\Microsoft.AI.WindowsServer.xml
+E:\Server_Side\WebApi\bin\Microsoft.AI.Web.xml
+E:\Server_Side\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Server_Side\WebApi\bin\DAL.pdb
+E:\Server_Side\WebApi\bin\DAL.dll.config
+E:\Server_Side\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+E:\Server_Side\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+E:\Server_Side\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+E:\Server_Side\WebApi\obj\Debug\WebApi.dll
+E:\Server_Side\WebApi\obj\Debug\WebApi.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\grpc_csharp_ext.x86.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\grpc_csharp_ext.x64.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\libgrpc_csharp_ext.x86.so
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\libgrpc_csharp_ext.x64.so
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\ApplicationInsights.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\WebApi.dll.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\WebApi.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\WebApi.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\csc.exe
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\csi.exe
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\BL.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Entities.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Net.Http.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.Cors.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.Http.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\WebGrease.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\DAL.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Clarifai.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\EntityFramework.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Protobuf.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Api.CommonProtos.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Grpc.Core.Api.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.LongRunning.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Grpc.Core.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Api.Gax.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Interactive.Async.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Apis.Auth.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Grpc.Auth.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Apis.Core.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Apis.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\BL.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\BL.dll.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Entities.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.Http.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\DAL.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\DAL.dll.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Protobuf.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Protobuf.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Api.CommonProtos.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Api.CommonProtos.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Grpc.Core.Api.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Grpc.Core.Api.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.LongRunning.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.LongRunning.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Grpc.Core.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Grpc.Core.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Api.Gax.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Api.Gax.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\System.Interactive.Async.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Apis.Auth.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Grpc.Auth.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Grpc.Auth.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Apis.Core.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Apis.Core.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Apis.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\bin\Google.Apis.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\obj\Debug\WebApi.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\grpc_csharp_ext.x86.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\grpc_csharp_ext.x64.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\libgrpc_csharp_ext.x86.so
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\libgrpc_csharp_ext.x64.so
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Protobuf.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Api.CommonProtos.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Grpc.Core.Api.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.LongRunning.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Grpc.Core.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Api.Gax.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\System.Interactive.Async.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Apis.Auth.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Grpc.Auth.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Apis.Core.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Apis.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Protobuf.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Protobuf.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Api.CommonProtos.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Api.CommonProtos.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Grpc.Core.Api.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Grpc.Core.Api.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.LongRunning.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.LongRunning.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Grpc.Core.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Grpc.Core.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Api.Gax.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Api.Gax.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\System.Interactive.Async.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Apis.Auth.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Apis.Auth.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Grpc.Auth.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Grpc.Auth.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Apis.Core.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Apis.Core.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Apis.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Apis.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\Entities.dll.config
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\EntityFramework.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\ApplicationInsights.config
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\grpc_csharp_ext.x86.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\grpc_csharp_ext.x64.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\libgrpc_csharp_ext.x86.so
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\libgrpc_csharp_ext.x64.so
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\WebApi.dll.config
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\WebApi.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\WebApi.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\csc.exe
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\csc.exe.config
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\csc.rsp
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\csi.exe
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\csi.exe.config
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\csi.rsp
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Console.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\vbc.exe
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\vbc.rsp
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\BL.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Entities.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\EntityFramework.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Net.Http.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.Cors.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.Helpers.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.Http.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.Mvc.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.Optimization.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.Razor.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.WebPages.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\WebGrease.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\DAL.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Clarifai.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Protobuf.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Api.CommonProtos.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Grpc.Core.Api.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.LongRunning.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Grpc.Core.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Api.Gax.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Interactive.Async.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Apis.Auth.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Grpc.Auth.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Apis.Core.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Apis.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\BL.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\BL.dll.config
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Entities.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Entities.dll.config
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\EntityFramework.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.Http.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.Helpers.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.Mvc.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.Optimization.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.Razor.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.WebPages.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\DAL.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\DAL.dll.config
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Protobuf.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Protobuf.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Api.CommonProtos.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Api.CommonProtos.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Grpc.Core.Api.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Grpc.Core.Api.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.LongRunning.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.LongRunning.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Grpc.Core.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Grpc.Core.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Api.Gax.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Api.Gax.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\System.Interactive.Async.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Apis.Auth.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Apis.Auth.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Grpc.Auth.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Grpc.Auth.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Apis.Core.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Apis.Core.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Apis.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Apis.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\obj\Debug\WebApi.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Apis.Storage.v1.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Api.Gax.Rest.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Apis.Storage.v1.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Apis.Storage.v1.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Api.Gax.Rest.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\WebApi\bin\Google.Api.Gax.Rest.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\grpc_csharp_ext.x86.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\grpc_csharp_ext.x64.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\libgrpc_csharp_ext.x86.so
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\libgrpc_csharp_ext.x64.so
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Apis.Storage.v1.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Apis.Auth.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Apis.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Apis.Core.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Api.Gax.Rest.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Api.Gax.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Interactive.Async.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Protobuf.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Api.CommonProtos.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Grpc.Core.Api.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.LongRunning.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Grpc.Core.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Grpc.Auth.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Entities.dll.config
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\EntityFramework.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Apis.Storage.v1.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Apis.Storage.v1.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Apis.Auth.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Apis.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Apis.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Apis.Core.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Apis.Core.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Api.Gax.Rest.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Api.Gax.Rest.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Api.Gax.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Api.Gax.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Interactive.Async.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Protobuf.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Protobuf.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Api.CommonProtos.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.Api.CommonProtos.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Grpc.Core.Api.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Grpc.Core.Api.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.LongRunning.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Google.LongRunning.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Grpc.Core.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Grpc.Core.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Grpc.Auth.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Grpc.Auth.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.AppContext.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Console.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.IO.Compression.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.IO.FileSystem.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Net.Sockets.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\System.Xml.ReaderWriter.dll
+D:\Server_Side\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+D:\Server_Side\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+D:\Server_Side\WebApi\obj\Debug\WebApi.dll
+D:\Server_Side\WebApi\obj\Debug\WebApi.pdb
+D:\Server_Side\WebApi\bin\grpc_csharp_ext.x86.dll
+D:\Server_Side\WebApi\bin\grpc_csharp_ext.x64.dll
+D:\Server_Side\WebApi\bin\libgrpc_csharp_ext.x86.so
+D:\Server_Side\WebApi\bin\libgrpc_csharp_ext.x64.so
+D:\Server_Side\WebApi\bin\libgrpc_csharp_ext.x86.dylib
+D:\Server_Side\WebApi\bin\libgrpc_csharp_ext.x64.dylib
+D:\Server_Side\WebApi\bin\ApplicationInsights.config
+D:\Server_Side\WebApi\bin\WebApi.dll.config
+D:\Server_Side\WebApi\bin\WebApi.dll
+D:\Server_Side\WebApi\bin\WebApi.pdb
+D:\Server_Side\WebApi\bin\roslyn\csc.exe
+D:\Server_Side\WebApi\bin\roslyn\csc.exe.config
+D:\Server_Side\WebApi\bin\roslyn\csc.rsp
+D:\Server_Side\WebApi\bin\roslyn\csi.exe
+D:\Server_Side\WebApi\bin\roslyn\csi.exe.config
+D:\Server_Side\WebApi\bin\roslyn\csi.rsp
+D:\Server_Side\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Server_Side\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Server_Side\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Server_Side\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Server_Side\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Server_Side\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Server_Side\WebApi\bin\roslyn\System.AppContext.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Console.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Server_Side\WebApi\bin\roslyn\System.IO.Compression.dll
+D:\Server_Side\WebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Server_Side\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Server_Side\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Server_Side\WebApi\bin\roslyn\System.IO.Pipes.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Security.Claims.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Server_Side\WebApi\bin\roslyn\System.ValueTuple.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Xml.XPath.dll
+D:\Server_Side\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Server_Side\WebApi\bin\roslyn\vbc.exe
+D:\Server_Side\WebApi\bin\roslyn\vbc.exe.config
+D:\Server_Side\WebApi\bin\roslyn\vbc.rsp
+D:\Server_Side\WebApi\bin\roslyn\VBCSCompiler.exe
+D:\Server_Side\WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Server_Side\WebApi\bin\Antlr3.Runtime.dll
+D:\Server_Side\WebApi\bin\BL.dll
+D:\Server_Side\WebApi\bin\Clarifai.dll
+D:\Server_Side\WebApi\bin\Entities.dll
+D:\Server_Side\WebApi\bin\EntityFramework.dll
+D:\Server_Side\WebApi\bin\EntityFramework.SqlServer.dll
+D:\Server_Side\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Server_Side\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Server_Side\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Server_Side\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Server_Side\WebApi\bin\Microsoft.AI.Web.dll
+D:\Server_Side\WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Server_Side\WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\Server_Side\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Server_Side\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Server_Side\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Server_Side\WebApi\bin\Microsoft.Win32.Primitives.dll
+D:\Server_Side\WebApi\bin\Newtonsoft.Json.dll
+D:\Server_Side\WebApi\bin\System.AppContext.dll
+D:\Server_Side\WebApi\bin\System.Console.dll
+D:\Server_Side\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Server_Side\WebApi\bin\System.Globalization.Calendars.dll
+D:\Server_Side\WebApi\bin\System.IO.Compression.dll
+D:\Server_Side\WebApi\bin\System.IO.Compression.ZipFile.dll
+D:\Server_Side\WebApi\bin\System.IO.FileSystem.dll
+D:\Server_Side\WebApi\bin\System.IO.FileSystem.Primitives.dll
+D:\Server_Side\WebApi\bin\System.Net.Http.dll
+D:\Server_Side\WebApi\bin\System.Net.Http.Formatting.dll
+D:\Server_Side\WebApi\bin\System.Net.Sockets.dll
+D:\Server_Side\WebApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Server_Side\WebApi\bin\System.Security.Cryptography.Algorithms.dll
+D:\Server_Side\WebApi\bin\System.Security.Cryptography.Encoding.dll
+D:\Server_Side\WebApi\bin\System.Security.Cryptography.Primitives.dll
+D:\Server_Side\WebApi\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Server_Side\WebApi\bin\System.Web.Cors.dll
+D:\Server_Side\WebApi\bin\System.Web.Helpers.dll
+D:\Server_Side\WebApi\bin\System.Web.Http.Cors.dll
+D:\Server_Side\WebApi\bin\System.Web.Http.dll
+D:\Server_Side\WebApi\bin\System.Web.Http.WebHost.dll
+D:\Server_Side\WebApi\bin\System.Web.Mvc.dll
+D:\Server_Side\WebApi\bin\System.Web.Optimization.dll
+D:\Server_Side\WebApi\bin\System.Web.Razor.dll
+D:\Server_Side\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Server_Side\WebApi\bin\System.Web.WebPages.dll
+D:\Server_Side\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\Server_Side\WebApi\bin\System.Xml.ReaderWriter.dll
+D:\Server_Side\WebApi\bin\WebGrease.dll
+D:\Server_Side\WebApi\bin\DAL.dll
+D:\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.dll
+D:\Server_Side\WebApi\bin\Google.Apis.Storage.v1.dll
+D:\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.dll
+D:\Server_Side\WebApi\bin\Google.Apis.Auth.dll
+D:\Server_Side\WebApi\bin\Google.Apis.dll
+D:\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.dll
+D:\Server_Side\WebApi\bin\Google.Apis.Core.dll
+D:\Server_Side\WebApi\bin\Google.Api.Gax.Rest.dll
+D:\Server_Side\WebApi\bin\Google.Api.Gax.dll
+D:\Server_Side\WebApi\bin\System.Interactive.Async.dll
+D:\Server_Side\WebApi\bin\Google.Protobuf.dll
+D:\Server_Side\WebApi\bin\Google.Api.CommonProtos.dll
+D:\Server_Side\WebApi\bin\Grpc.Core.Api.dll
+D:\Server_Side\WebApi\bin\Google.LongRunning.dll
+D:\Server_Side\WebApi\bin\Grpc.Core.dll
+D:\Server_Side\WebApi\bin\Grpc.Auth.dll
+D:\Server_Side\WebApi\bin\Google.Apis.Auth.PlatformServices.dll
+D:\Server_Side\WebApi\bin\BL.pdb
+D:\Server_Side\WebApi\bin\BL.dll.config
+D:\Server_Side\WebApi\bin\Entities.pdb
+D:\Server_Side\WebApi\bin\Entities.dll.config
+D:\Server_Side\WebApi\bin\EntityFramework.xml
+D:\Server_Side\WebApi\bin\EntityFramework.SqlServer.xml
+D:\Server_Side\WebApi\bin\System.Net.Http.Formatting.xml
+D:\Server_Side\WebApi\bin\System.Web.Http.xml
+D:\Server_Side\WebApi\bin\System.Web.Http.Cors.xml
+D:\Server_Side\WebApi\bin\Newtonsoft.Json.xml
+D:\Server_Side\WebApi\bin\System.Web.Helpers.xml
+D:\Server_Side\WebApi\bin\System.Web.Http.WebHost.xml
+D:\Server_Side\WebApi\bin\System.Web.Mvc.xml
+D:\Server_Side\WebApi\bin\System.Web.Optimization.xml
+D:\Server_Side\WebApi\bin\System.Web.Razor.xml
+D:\Server_Side\WebApi\bin\System.Web.WebPages.xml
+D:\Server_Side\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Server_Side\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\Server_Side\WebApi\bin\Antlr3.Runtime.pdb
+D:\Server_Side\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Server_Side\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Server_Side\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Server_Side\WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Server_Side\WebApi\bin\Microsoft.AI.Web.xml
+D:\Server_Side\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Server_Side\WebApi\bin\DAL.pdb
+D:\Server_Side\WebApi\bin\DAL.dll.config
+D:\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.pdb
+D:\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.xml
+D:\Server_Side\WebApi\bin\Google.Apis.Storage.v1.pdb
+D:\Server_Side\WebApi\bin\Google.Apis.Storage.v1.xml
+D:\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.pdb
+D:\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.xml
+D:\Server_Side\WebApi\bin\Google.Apis.Auth.pdb
+D:\Server_Side\WebApi\bin\Google.Apis.Auth.xml
+D:\Server_Side\WebApi\bin\Google.Apis.pdb
+D:\Server_Side\WebApi\bin\Google.Apis.xml
+D:\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.pdb
+D:\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.xml
+D:\Server_Side\WebApi\bin\Google.Apis.Core.pdb
+D:\Server_Side\WebApi\bin\Google.Apis.Core.xml
+D:\Server_Side\WebApi\bin\Google.Api.Gax.Rest.pdb
+D:\Server_Side\WebApi\bin\Google.Api.Gax.Rest.xml
+D:\Server_Side\WebApi\bin\Google.Api.Gax.pdb
+D:\Server_Side\WebApi\bin\Google.Api.Gax.xml
+D:\Server_Side\WebApi\bin\System.Interactive.Async.xml
+D:\Server_Side\WebApi\bin\Google.Protobuf.pdb
+D:\Server_Side\WebApi\bin\Google.Protobuf.xml
+D:\Server_Side\WebApi\bin\Google.Api.CommonProtos.pdb
+D:\Server_Side\WebApi\bin\Google.Api.CommonProtos.xml
+D:\Server_Side\WebApi\bin\Grpc.Core.Api.pdb
+D:\Server_Side\WebApi\bin\Grpc.Core.Api.xml
+D:\Server_Side\WebApi\bin\Google.LongRunning.pdb
+D:\Server_Side\WebApi\bin\Google.LongRunning.xml
+D:\Server_Side\WebApi\bin\Grpc.Core.pdb
+D:\Server_Side\WebApi\bin\Grpc.Core.xml
+D:\Server_Side\WebApi\bin\Grpc.Auth.pdb
+D:\Server_Side\WebApi\bin\Grpc.Auth.xml
+D:\Server_Side\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+E:\Server_Side\WebApi\bin\EntityFramework.SqlServer.dll
+E:\Server_Side\WebApi\bin\Microsoft.Win32.Primitives.dll
+E:\Server_Side\WebApi\bin\System.AppContext.dll
+E:\Server_Side\WebApi\bin\System.Console.dll
+E:\Server_Side\WebApi\bin\System.Globalization.Calendars.dll
+E:\Server_Side\WebApi\bin\System.IO.Compression.dll
+E:\Server_Side\WebApi\bin\System.IO.Compression.ZipFile.dll
+E:\Server_Side\WebApi\bin\System.IO.FileSystem.dll
+E:\Server_Side\WebApi\bin\System.IO.FileSystem.Primitives.dll
+E:\Server_Side\WebApi\bin\System.Net.Sockets.dll
+E:\Server_Side\WebApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Server_Side\WebApi\bin\System.Xml.ReaderWriter.dll
+E:\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.dll
+E:\Server_Side\WebApi\bin\Google.Apis.Storage.v1.dll
+E:\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.dll
+E:\Server_Side\WebApi\bin\Google.Apis.Auth.dll
+E:\Server_Side\WebApi\bin\Google.Apis.dll
+E:\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.dll
+E:\Server_Side\WebApi\bin\Google.Apis.Core.dll
+E:\Server_Side\WebApi\bin\Google.Api.Gax.Rest.dll
+E:\Server_Side\WebApi\bin\Google.Api.Gax.dll
+E:\Server_Side\WebApi\bin\System.Interactive.Async.dll
+E:\Server_Side\WebApi\bin\Google.Protobuf.dll
+E:\Server_Side\WebApi\bin\Google.Api.CommonProtos.dll
+E:\Server_Side\WebApi\bin\Grpc.Core.Api.dll
+E:\Server_Side\WebApi\bin\Google.LongRunning.dll
+E:\Server_Side\WebApi\bin\Grpc.Core.dll
+E:\Server_Side\WebApi\bin\Grpc.Auth.dll
+E:\Server_Side\WebApi\bin\Google.Apis.Auth.PlatformServices.dll
+E:\Server_Side\WebApi\bin\Entities.dll.config
+E:\Server_Side\WebApi\bin\EntityFramework.xml
+E:\Server_Side\WebApi\bin\EntityFramework.SqlServer.xml
+E:\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.pdb
+E:\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.xml
+E:\Server_Side\WebApi\bin\Google.Apis.Storage.v1.pdb
+E:\Server_Side\WebApi\bin\Google.Apis.Storage.v1.xml
+E:\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.pdb
+E:\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.xml
+E:\Server_Side\WebApi\bin\Google.Apis.Auth.pdb
+E:\Server_Side\WebApi\bin\Google.Apis.Auth.xml
+E:\Server_Side\WebApi\bin\Google.Apis.pdb
+E:\Server_Side\WebApi\bin\Google.Apis.xml
+E:\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.pdb
+E:\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.xml
+E:\Server_Side\WebApi\bin\Google.Apis.Core.pdb
+E:\Server_Side\WebApi\bin\Google.Apis.Core.xml
+E:\Server_Side\WebApi\bin\Google.Api.Gax.Rest.pdb
+E:\Server_Side\WebApi\bin\Google.Api.Gax.Rest.xml
+E:\Server_Side\WebApi\bin\Google.Api.Gax.pdb
+E:\Server_Side\WebApi\bin\Google.Api.Gax.xml
+E:\Server_Side\WebApi\bin\System.Interactive.Async.xml
+E:\Server_Side\WebApi\bin\Google.Protobuf.pdb
+E:\Server_Side\WebApi\bin\Google.Protobuf.xml
+E:\Server_Side\WebApi\bin\Google.Api.CommonProtos.pdb
+E:\Server_Side\WebApi\bin\Google.Api.CommonProtos.xml
+E:\Server_Side\WebApi\bin\Grpc.Core.Api.pdb
+E:\Server_Side\WebApi\bin\Grpc.Core.Api.xml
+E:\Server_Side\WebApi\bin\Google.LongRunning.pdb
+E:\Server_Side\WebApi\bin\Google.LongRunning.xml
+E:\Server_Side\WebApi\bin\Grpc.Core.pdb
+E:\Server_Side\WebApi\bin\Grpc.Core.xml
+E:\Server_Side\WebApi\bin\Grpc.Auth.pdb
+E:\Server_Side\WebApi\bin\Grpc.Auth.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\RestSharp.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\WebApi\bin\RestSharp.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Microsoft.Win32.Primitives.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.AppContext.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Console.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Globalization.Calendars.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.IO.Compression.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.IO.Compression.ZipFile.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.IO.FileSystem.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Net.Sockets.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\System.Xml.ReaderWriter.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Google.Apis.Storage.v1.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\RestSharp.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Google.Api.Gax.Rest.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Google.Apis.Storage.v1.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Google.Apis.Storage.v1.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\RestSharp.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Google.Api.Gax.Rest.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\WebApi\bin\Google.Api.Gax.Rest.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\grpc_csharp_ext.x86.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\grpc_csharp_ext.x64.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\libgrpc_csharp_ext.x86.so
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\libgrpc_csharp_ext.x64.so
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\ApplicationInsights.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\WebApi.dll.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\WebApi.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\WebApi.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\csc.exe
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\csi.exe
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\BL.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Clarifai.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Entities.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\EntityFramework.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.AppContext.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Console.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.IO.Compression.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.IO.FileSystem.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Net.Http.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Net.Sockets.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.Cors.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.Http.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\WebGrease.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\DAL.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\RestSharp.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Apis.Storage.v1.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Apis.Auth.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Apis.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Apis.Core.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Api.Gax.Rest.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Api.Gax.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Interactive.Async.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Protobuf.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Api.CommonProtos.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Grpc.Core.Api.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.LongRunning.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Grpc.Core.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Grpc.Auth.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\BL.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\BL.dll.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Entities.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Entities.dll.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\EntityFramework.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.Http.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\DAL.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\DAL.dll.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\RestSharp.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Cloud.Storage.V1.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Apis.Storage.v1.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Apis.Storage.v1.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Cloud.Vision.V1.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Apis.Auth.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Apis.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Apis.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Api.Gax.Grpc.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Apis.Core.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Apis.Core.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Api.Gax.Rest.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Api.Gax.Rest.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Api.Gax.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Api.Gax.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\System.Interactive.Async.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Protobuf.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Protobuf.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Api.CommonProtos.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.Api.CommonProtos.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Grpc.Core.Api.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Grpc.Core.Api.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.LongRunning.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Google.LongRunning.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Grpc.Core.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Grpc.Core.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Grpc.Auth.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\bin\Grpc.Auth.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\obj\Debug\WebApi.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\WebApi\obj\Debug\WebApi.pdb

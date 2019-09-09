@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EventModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="image">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="url" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="isBlur" Type="Boolean" />
+    <Property Name="isClosedEye" Type="Boolean" />
+    <Property Name="isDark" Type="Boolean" />
+    <Property Name="isCutFace" Type="Boolean" />
+    <Property Name="isGroom" Type="Boolean" />
+    <Property Name="isLight" Type="Boolean" />
+    <Property Name="isInside" Type="Boolean" />
+    <Property Name="hasChildren" Type="Boolean" />
+    <Property Name="hasYoung" Type="Boolean" />
+    <Property Name="hasAdults" Type="Boolean" />
+    <Property Name="numPerson" Type="Int32" />
+    <Property Name="isInRecycleBin" Type="Boolean" />
+  </EntityType>
+  <EntityContainer Name="EventEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="images" EntityType="Self.image" />
+    <EntitySet Name="Grooms" EntityType="EventModel.Groom" />
+  </EntityContainer>
+  <EntityType Name="Groom">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="url" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="token" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

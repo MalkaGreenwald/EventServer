@@ -1,0 +1,629 @@
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\BL.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\BL.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\DAL.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\Entities.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\DAL.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\DAL.dll.config
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\Entities.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\obj\Debug\BL.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\obj\Debug\BL.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\BL.dll.config
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\BL.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\BL.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Clarifai.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Entities.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.AppContext.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.Console.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.IO.Compression.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.Net.Sockets.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\obj\Debug\BL.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\BL.dll.config
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\Clarifai.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.AppContext.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.Console.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.IO.Compression.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.Net.Http.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.Net.Sockets.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\obj\Debug\BL.pdb
+E:\Server_Side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\Server_Side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\Server_Side\BL\obj\Debug\BL.dll
+E:\Server_Side\BL\obj\Debug\BL.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\BL.dll.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\BL.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\BL.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Clarifai.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Entities.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Api.Gax.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Apis.Core.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Apis.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.LongRunning.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Grpc.Auth.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Grpc.Core.Api.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Grpc.Core.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.AppContext.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.Console.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.Interactive.Async.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.IO.Compression.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.Net.Sockets.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Api.Gax.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Api.Gax.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Apis.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Apis.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Apis.Core.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.LongRunning.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.LongRunning.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Grpc.Auth.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Grpc.Auth.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Grpc.Core.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Grpc.Core.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Grpc.Core.Api.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\bin\Debug\System.Interactive.Async.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\01-09-19\Server_Side\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Api.Gax.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Core.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Apis.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.LongRunning.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Protobuf.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Grpc.Auth.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Grpc.Core.Api.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Grpc.Core.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\System.Interactive.Async.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Api.Gax.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Api.Gax.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Apis.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Apis.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Core.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.LongRunning.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.LongRunning.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Protobuf.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Google.Protobuf.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Grpc.Auth.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Grpc.Auth.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Grpc.Core.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Grpc.Core.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Grpc.Core.Api.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\System.Interactive.Async.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-server\Server_Side\BL\bin\Debug\Entities.dll.config
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\obj\Debug\BL.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\obj\Debug\BL.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\BL.dll.config
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\BL.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\BL.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Clarifai.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\DAL.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Entities.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Api.Gax.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Core.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Apis.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.LongRunning.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Protobuf.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Grpc.Auth.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Grpc.Core.Api.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Grpc.Core.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.AppContext.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.Console.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.Interactive.Async.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.IO.Compression.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.Net.Http.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.Net.Sockets.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\DAL.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\DAL.dll.config
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Entities.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Entities.dll.config
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Api.Gax.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Apis.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Apis.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Core.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.LongRunning.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.LongRunning.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Protobuf.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Grpc.Auth.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Grpc.Auth.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Grpc.Core.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Grpc.Core.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Grpc.Core.Api.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\System.Interactive.Async.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.pdb
+C:\Users\Dina\ButeCampCamatec\SortPictures\event_project\Event-server\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Api.Gax.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Apis.Core.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Apis.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.LongRunning.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Grpc.Auth.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Grpc.Core.Api.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Grpc.Core.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.Interactive.Async.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Entities.dll.config
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Api.Gax.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Api.Gax.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Apis.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Apis.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Apis.Core.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.LongRunning.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.LongRunning.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Grpc.Auth.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Grpc.Auth.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Grpc.Core.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Grpc.Core.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\Grpc.Core.Api.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.Interactive.Async.xml
+D:\Server_Side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\Server_Side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Server_Side\BL\obj\Debug\BL.dll
+D:\Server_Side\BL\obj\Debug\BL.pdb
+D:\Server_Side\BL\bin\Debug\grpc_csharp_ext.x86.dll
+D:\Server_Side\BL\bin\Debug\grpc_csharp_ext.x64.dll
+D:\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x86.so
+D:\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x64.so
+D:\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x86.dylib
+D:\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x64.dylib
+D:\Server_Side\BL\bin\Debug\BL.dll.config
+D:\Server_Side\BL\bin\Debug\BL.dll
+D:\Server_Side\BL\bin\Debug\BL.pdb
+D:\Server_Side\BL\bin\Debug\Clarifai.dll
+D:\Server_Side\BL\bin\Debug\DAL.dll
+D:\Server_Side\BL\bin\Debug\Entities.dll
+D:\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.dll
+D:\Server_Side\BL\bin\Debug\Google.Api.Gax.dll
+D:\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.dll
+D:\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.dll
+D:\Server_Side\BL\bin\Debug\Google.Apis.Auth.dll
+D:\Server_Side\BL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Server_Side\BL\bin\Debug\Google.Apis.Core.dll
+D:\Server_Side\BL\bin\Debug\Google.Apis.dll
+D:\Server_Side\BL\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.dll
+D:\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.dll
+D:\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.dll
+D:\Server_Side\BL\bin\Debug\Google.LongRunning.dll
+D:\Server_Side\BL\bin\Debug\Google.Protobuf.dll
+D:\Server_Side\BL\bin\Debug\Grpc.Auth.dll
+D:\Server_Side\BL\bin\Debug\Grpc.Core.Api.dll
+D:\Server_Side\BL\bin\Debug\Grpc.Core.dll
+D:\Server_Side\BL\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Server_Side\BL\bin\Debug\Newtonsoft.Json.dll
+D:\Server_Side\BL\bin\Debug\System.AppContext.dll
+D:\Server_Side\BL\bin\Debug\System.Console.dll
+D:\Server_Side\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Server_Side\BL\bin\Debug\System.Globalization.Calendars.dll
+D:\Server_Side\BL\bin\Debug\System.Interactive.Async.dll
+D:\Server_Side\BL\bin\Debug\System.IO.Compression.dll
+D:\Server_Side\BL\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Server_Side\BL\bin\Debug\System.IO.FileSystem.dll
+D:\Server_Side\BL\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Server_Side\BL\bin\Debug\System.Net.Http.dll
+D:\Server_Side\BL\bin\Debug\System.Net.Sockets.dll
+D:\Server_Side\BL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Server_Side\BL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Server_Side\BL\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Server_Side\BL\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Server_Side\BL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Server_Side\BL\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Server_Side\BL\bin\Debug\DAL.pdb
+D:\Server_Side\BL\bin\Debug\DAL.dll.config
+D:\Server_Side\BL\bin\Debug\Entities.pdb
+D:\Server_Side\BL\bin\Debug\Entities.dll.config
+D:\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.pdb
+D:\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.xml
+D:\Server_Side\BL\bin\Debug\Google.Api.Gax.pdb
+D:\Server_Side\BL\bin\Debug\Google.Api.Gax.xml
+D:\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.pdb
+D:\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.xml
+D:\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.pdb
+D:\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.xml
+D:\Server_Side\BL\bin\Debug\Google.Apis.pdb
+D:\Server_Side\BL\bin\Debug\Google.Apis.xml
+D:\Server_Side\BL\bin\Debug\Google.Apis.Auth.pdb
+D:\Server_Side\BL\bin\Debug\Google.Apis.Auth.xml
+D:\Server_Side\BL\bin\Debug\Google.Apis.Core.pdb
+D:\Server_Side\BL\bin\Debug\Google.Apis.Core.xml
+D:\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.pdb
+D:\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.xml
+D:\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.pdb
+D:\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.xml
+D:\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.pdb
+D:\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.xml
+D:\Server_Side\BL\bin\Debug\Google.LongRunning.pdb
+D:\Server_Side\BL\bin\Debug\Google.LongRunning.xml
+D:\Server_Side\BL\bin\Debug\Google.Protobuf.pdb
+D:\Server_Side\BL\bin\Debug\Google.Protobuf.xml
+D:\Server_Side\BL\bin\Debug\Grpc.Auth.pdb
+D:\Server_Side\BL\bin\Debug\Grpc.Auth.xml
+D:\Server_Side\BL\bin\Debug\Grpc.Core.pdb
+D:\Server_Side\BL\bin\Debug\Grpc.Core.xml
+D:\Server_Side\BL\bin\Debug\Grpc.Core.Api.pdb
+D:\Server_Side\BL\bin\Debug\Grpc.Core.Api.xml
+D:\Server_Side\BL\bin\Debug\Newtonsoft.Json.xml
+D:\Server_Side\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Server_Side\BL\bin\Debug\System.Interactive.Async.xml
+D:\Server_Side\BL\obj\Debug\BL.csproj.CopyComplete
+E:\Server_Side\BL\bin\Debug\grpc_csharp_ext.x86.dll
+E:\Server_Side\BL\bin\Debug\grpc_csharp_ext.x64.dll
+E:\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x86.so
+E:\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x64.so
+E:\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x86.dylib
+E:\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x64.dylib
+E:\Server_Side\BL\bin\Debug\BL.dll.config
+E:\Server_Side\BL\bin\Debug\BL.dll
+E:\Server_Side\BL\bin\Debug\BL.pdb
+E:\Server_Side\BL\bin\Debug\Clarifai.dll
+E:\Server_Side\BL\bin\Debug\DAL.dll
+E:\Server_Side\BL\bin\Debug\Entities.dll
+E:\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.dll
+E:\Server_Side\BL\bin\Debug\Google.Api.Gax.dll
+E:\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.dll
+E:\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.dll
+E:\Server_Side\BL\bin\Debug\Google.Apis.Auth.dll
+E:\Server_Side\BL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\Server_Side\BL\bin\Debug\Google.Apis.Core.dll
+E:\Server_Side\BL\bin\Debug\Google.Apis.dll
+E:\Server_Side\BL\bin\Debug\Google.Apis.PlatformServices.dll
+E:\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.dll
+E:\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.dll
+E:\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.dll
+E:\Server_Side\BL\bin\Debug\Google.LongRunning.dll
+E:\Server_Side\BL\bin\Debug\Google.Protobuf.dll
+E:\Server_Side\BL\bin\Debug\Grpc.Auth.dll
+E:\Server_Side\BL\bin\Debug\Grpc.Core.Api.dll
+E:\Server_Side\BL\bin\Debug\Grpc.Core.dll
+E:\Server_Side\BL\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Server_Side\BL\bin\Debug\Newtonsoft.Json.dll
+E:\Server_Side\BL\bin\Debug\System.AppContext.dll
+E:\Server_Side\BL\bin\Debug\System.Console.dll
+E:\Server_Side\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Server_Side\BL\bin\Debug\System.Globalization.Calendars.dll
+E:\Server_Side\BL\bin\Debug\System.Interactive.Async.dll
+E:\Server_Side\BL\bin\Debug\System.IO.Compression.dll
+E:\Server_Side\BL\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Server_Side\BL\bin\Debug\System.IO.FileSystem.dll
+E:\Server_Side\BL\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Server_Side\BL\bin\Debug\System.Net.Http.dll
+E:\Server_Side\BL\bin\Debug\System.Net.Sockets.dll
+E:\Server_Side\BL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Server_Side\BL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Server_Side\BL\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Server_Side\BL\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Server_Side\BL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Server_Side\BL\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Server_Side\BL\bin\Debug\DAL.pdb
+E:\Server_Side\BL\bin\Debug\DAL.dll.config
+E:\Server_Side\BL\bin\Debug\Entities.pdb
+E:\Server_Side\BL\bin\Debug\Entities.dll.config
+E:\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.pdb
+E:\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.xml
+E:\Server_Side\BL\bin\Debug\Google.Api.Gax.pdb
+E:\Server_Side\BL\bin\Debug\Google.Api.Gax.xml
+E:\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.pdb
+E:\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.xml
+E:\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.pdb
+E:\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.xml
+E:\Server_Side\BL\bin\Debug\Google.Apis.pdb
+E:\Server_Side\BL\bin\Debug\Google.Apis.xml
+E:\Server_Side\BL\bin\Debug\Google.Apis.Auth.pdb
+E:\Server_Side\BL\bin\Debug\Google.Apis.Auth.xml
+E:\Server_Side\BL\bin\Debug\Google.Apis.Core.pdb
+E:\Server_Side\BL\bin\Debug\Google.Apis.Core.xml
+E:\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.pdb
+E:\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.xml
+E:\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.pdb
+E:\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.xml
+E:\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.pdb
+E:\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.xml
+E:\Server_Side\BL\bin\Debug\Google.LongRunning.pdb
+E:\Server_Side\BL\bin\Debug\Google.LongRunning.xml
+E:\Server_Side\BL\bin\Debug\Google.Protobuf.pdb
+E:\Server_Side\BL\bin\Debug\Google.Protobuf.xml
+E:\Server_Side\BL\bin\Debug\Grpc.Auth.pdb
+E:\Server_Side\BL\bin\Debug\Grpc.Auth.xml
+E:\Server_Side\BL\bin\Debug\Grpc.Core.pdb
+E:\Server_Side\BL\bin\Debug\Grpc.Core.xml
+E:\Server_Side\BL\bin\Debug\Grpc.Core.Api.pdb
+E:\Server_Side\BL\bin\Debug\Grpc.Core.Api.xml
+E:\Server_Side\BL\bin\Debug\Newtonsoft.Json.xml
+E:\Server_Side\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Server_Side\BL\bin\Debug\System.Interactive.Async.xml
+E:\Server_Side\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\RestSharp.dll
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\RestSharp.xml
+C:\Users\User\Desktop\google\EventProject\Server side\Server_Side\BL\bin\Debug\System.Drawing.Common.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\RestSharp.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\System.Drawing.Common.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\BL\bin\Debug\RestSharp.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\BL.dll.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\BL.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\BL.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Clarifai.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Entities.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Api.Gax.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Apis.Core.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Apis.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.LongRunning.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Grpc.Auth.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Grpc.Core.Api.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Grpc.Core.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\RestSharp.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.AppContext.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.Console.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.Interactive.Async.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.IO.Compression.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.Net.Sockets.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Entities.dll.config
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Api.Gax.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Api.Gax.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Apis.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Apis.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Apis.Core.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Cloud.Vision.V1.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.LongRunning.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.LongRunning.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Grpc.Auth.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Grpc.Auth.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Grpc.Core.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Grpc.Core.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Grpc.Core.Api.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\RestSharp.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\bin\Debug\System.Interactive.Async.xml
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\google\הפרוייקט\עותקים\08-09-19\Server_Side\BL\obj\Debug\BL.pdb

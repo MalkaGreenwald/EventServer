@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EventModelStoreContainer" CdmEntityContainer="EventEntities">
+    <EntitySetMapping Name="images">
+      <EntityTypeMapping TypeName="EventModel.image">
+        <MappingFragment StoreEntitySet="image">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="url" ColumnName="url" />
+          <ScalarProperty Name="isBlur" ColumnName="isBlur" />
+          <ScalarProperty Name="isClosedEye" ColumnName="isClosedEye" />
+          <ScalarProperty Name="isDark" ColumnName="isDark" />
+          <ScalarProperty Name="isCutFace" ColumnName="isCutFace" />
+          <ScalarProperty Name="isGroom" ColumnName="isGroom" />
+          <ScalarProperty Name="isLight" ColumnName="isLight" />
+          <ScalarProperty Name="isInside" ColumnName="isInside" />
+          <ScalarProperty Name="hasChildren" ColumnName="hasChildren" />
+          <ScalarProperty Name="hasYoung" ColumnName="hasYoung" />
+          <ScalarProperty Name="hasAdults" ColumnName="hasAdults" />
+          <ScalarProperty Name="numPerson" ColumnName="numPerson" />
+          <ScalarProperty Name="isInRecycleBin" ColumnName="isInRecycleBin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Grooms">
+      <EntityTypeMapping TypeName="EventModel.Groom">
+        <MappingFragment StoreEntitySet="Groom">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="token" ColumnName="token" />
+          <ScalarProperty Name="url" ColumnName="url" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
