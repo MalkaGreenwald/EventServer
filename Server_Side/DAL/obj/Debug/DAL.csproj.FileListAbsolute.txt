@@ -70,3 +70,15 @@ D:\Server_Side\DAL\obj\Debug\DAL.csproj.CopyComplete
 D:\Server_Side\DAL\obj\Debug\DAL.dll
 D:\Server_Side\DAL\obj\Debug\DAL.pdb
 C:\Users\user1\Documents\יהודית\google\eventProject\Event-Server\Server_Side\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Documents\יהודית\google\eventProject\EventServer\Server_Side\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Documents\יהודית\google\eventProject\EventServer\Server_Side\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\EventServer\Server_Side\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Documents\יהודית\google\eventProject\EventServer\Server_Side\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\EventServer\Server_Side\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\EventServer\Server_Side\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\EventServer\Server_Side\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\יהודית\google\eventProject\EventServer\Server_Side\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Documents\יהודית\google\eventProject\EventServer\Server_Side\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\יהודית\google\eventProject\EventServer\Server_Side\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Documents\יהודית\google\eventProject\EventServer\Server_Side\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Documents\יהודית\google\eventProject\EventServer\Server_Side\DAL\obj\Debug\DAL.pdb

@@ -10,6 +10,7 @@ using System.Web;
 using System.Web.Http;
 using System.Web.Http.Cors;
 //using System.Web.Mvc;
+using Entities;
 
 namespace WebApi.Controllers
 {
@@ -35,5 +36,20 @@ namespace WebApi.Controllers
         {
             return Ok(InitGroom.InsertGroom());
         }
+
+        [Route("DeleteImage")]
+        [HttpPost]
+        public IHttpActionResult DeleteImage(ImageEntity img)
+        {
+            return Ok(Images.DeleteImg(img.url));
+        }
+
+        [Route("getRecycleBin")]
+        [HttpGet]
+        public IHttpActionResult GetRecycleBin()
+        {
+            return Ok(Images.getRecycleBin());
+        }
+
     }
 }
