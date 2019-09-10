@@ -25,15 +25,23 @@ namespace BL
             {
 
                 var postedFile = httpRequest.Files[0];
-                var filePath = HttpContext.Current.Server.MapPath(temp + postedFile.FileName);
-                postedFile.SaveAs(filePath);
-                Groom groom = new Groom();
-                groom.url = "http://localhost:50637/UploadFile/" + postedFile.FileName;
-                groom.token = getFaceToken(postedFile.InputStream);
-                groom.name = postedFile.FileName;
-                DB.Grooms.Add(groom);
-                DB.SaveChanges();
-                return true;
+                if (string.Equals(postedFile.ContentType, "image/jpg", StringComparison.OrdinalIgnoreCase) ||
+            string.Equals(postedFile.ContentType, "image/jpeg", StringComparison.OrdinalIgnoreCase) ||
+            string.Equals(postedFile.ContentType, "image/pjpeg", StringComparison.OrdinalIgnoreCase) ||
+            string.Equals(postedFile.ContentType, "image/gif", StringComparison.OrdinalIgnoreCase) ||
+            string.Equals(postedFile.ContentType, "image/x-png", StringComparison.OrdinalIgnoreCase) ||
+            string.Equals(postedFile.ContentType, "image/png", StringComparison.OrdinalIgnoreCase))
+                {
+                    var filePath = HttpContext.Current.Server.MapPath(temp + postedFile.FileName);
+                    postedFile.SaveAs(filePath);
+                    Groom groom = new Groom();
+                    groom.url = "http://localhost:50637/UploadFile/" + postedFile.FileName;
+                    groom.token = getFaceToken(postedFile.InputStream);
+                    groom.name = postedFile.FileName;
+                    DB.Grooms.Add(groom);
+                    DB.SaveChanges();
+                    return true;
+                }
             }
 
             return false;

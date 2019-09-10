@@ -25,7 +25,7 @@ namespace DAL
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<image> images { get; set; }
         public virtual DbSet<Groom> Grooms { get; set; }
+        public virtual DbSet<image> images { get; set; }
     }
 }
