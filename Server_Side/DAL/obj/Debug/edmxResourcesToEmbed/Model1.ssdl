@@ -22,10 +22,9 @@
     <Property Name="isCutFace" Type="bit" />
     <Property Name="isGroom" Type="bit" />
     <Property Name="isLight" Type="bit" />
-    <Property Name="isInside" Type="bit" />
+    <Property Name="isOutdoors" Type="bit" />
+    <Property Name="isIndoors" Type="bit" />
     <Property Name="hasChildren" Type="bit" />
-    <Property Name="hasYoung" Type="bit" />
-    <Property Name="hasAdults" Type="bit" />
     <Property Name="numPerson" Type="int" />
     <Property Name="isInRecycleBin" Type="bit" />
   </EntityType>

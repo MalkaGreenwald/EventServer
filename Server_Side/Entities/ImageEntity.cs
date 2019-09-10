@@ -17,10 +17,9 @@ namespace Entities
         public Nullable<bool> isCutFace { get; set; }
         public Nullable<bool> isGroom { get; set; }
         public Nullable<bool> isLight { get; set; }
-        public Nullable<bool> isInside { get; set; }
+        public Nullable<bool> isOutdoors { get; set; }
+        public Nullable<bool> isIndoors { get; set; }
         public Nullable<bool> hasChildren { get; set; }
-        public Nullable<bool> hasYoung { get; set; }
-        public Nullable<bool> hasAdults { get; set; }
         public Nullable<int> numPerson { get; set; }
         public Nullable<bool> isInRecycleBin { get; set; }
     }

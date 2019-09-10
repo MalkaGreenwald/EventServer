@@ -24,11 +24,10 @@ namespace BL.Casting
                 isBlur = img.isBlur,
                 isClosedEye = img.isClosedEye,
                 isDark = img.isDark,
-                isInside = img.isInside,
+                isIndoors = img.isIndoors,
+                isOutdoors=img.isOutdoors,
                 isLight = img.isLight,
                 hasChildren = img.hasChildren,
-                hasYoung = img.hasYoung,
-                hasAdults = img.hasAdults,
                 numPerson = img.numPerson,
                 isInRecycleBin = img.isInRecycleBin
             };
@@ -46,10 +45,10 @@ namespace BL.Casting
                 isBlur = imgE.isBlur,
                 isClosedEye = imgE.isClosedEye,
                 isDark = imgE.isDark,
-                isInside = imgE.isInside,
+                isIndoors = imgE.isIndoors,
+                isOutdoors = imgE.isOutdoors,
                 isLight = imgE.isLight,
-                hasYoung = imgE.hasYoung,
-                hasAdults = imgE.hasAdults,
+                hasChildren = imgE.hasChildren,
                 numPerson = imgE.numPerson,
                 isInRecycleBin = imgE.isInRecycleBin
             };

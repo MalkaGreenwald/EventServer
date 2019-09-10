@@ -145,13 +145,11 @@ namespace BL
             img.isCutFace = false;//to delete in db
             img.isDark = IsDark(filePath);
             img.isGroom = IsGroom(resFacePP);
-            //img.isInside = IsInside(filePath);
             img.isLight = IsLight(filePath);
             img.numPerson = await NumPerson(filePath);
-            img.isInside = IsIndoors(resClarifai);
-            bool[] whatHas = ageGroups(resClarifai);
-            img.hasChildren = whatHas[0];
-            img.hasAdults = whatHas[1];
+            img.isIndoors = IsIndoors(resClarifai);
+            //bool[] whatHas = ageGroups(resClarifai);
+            //img.hasChildren = HasChildren(stream);
             DB.images.Add(img);
             DB.SaveChanges();
             return 1;
@@ -260,6 +258,25 @@ namespace BL
                         return false;
             }
             return true;
+        }
+        public static bool HasChildren(Stream stream)
+        {
+            const string BaseUrl =
+"https://automl.googleapis.com/v1beta1/projects/eventesti/locations/us-central1/models/ICN5997183896619379064:predict";
+            IRestClient _client = new RestClient(BaseUrl);
+            RestRequest request = new RestRequest(Method.POST);
+            request.AddHeader("Content-Type", "application/json");
+            request.AddHeader("Authorization", "Bearer $(gcloud auth application-default print-access-token)");
+            request.AddParameter("image_url", "https://images1.calcalist.co.il/PicServer3/2019/04/11/898728/9_l.jpg");//open
+            request.AddJsonBody(JObject.Parse(" {'payload':{'image':{'imageBytes':'"+ stream+"'}} }"));
+            var response = _client.Execute(request);
+            Console.WriteLine(" ");
+
+
+
+
+
+            return false;
         }
         public static bool[] ageGroups(List<Concept> res)
         {

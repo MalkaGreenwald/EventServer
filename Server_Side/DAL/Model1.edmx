@@ -4,7 +4,7 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-    <Schema Namespace="EventModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+      <Schema Namespace="EventModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="Groom">
           <Key>
             <PropertyRef Name="id" />
@@ -27,10 +27,9 @@
           <Property Name="isCutFace" Type="bit" />
           <Property Name="isGroom" Type="bit" />
           <Property Name="isLight" Type="bit" />
-          <Property Name="isInside" Type="bit" />
+          <Property Name="isOutdoors" Type="bit" />
+          <Property Name="isIndoors" Type="bit" />
           <Property Name="hasChildren" Type="bit" />
-          <Property Name="hasYoung" Type="bit" />
-          <Property Name="hasAdults" Type="bit" />
           <Property Name="numPerson" Type="int" />
           <Property Name="isInRecycleBin" Type="bit" />
         </EntityType>
@@ -38,10 +37,20 @@
           <EntitySet Name="Groom" EntityType="Self.Groom" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="image" EntityType="Self.image" Schema="dbo" store:Type="Tables" />
         </EntityContainer>
-      </Schema></edmx:StorageModels>
+      </Schema>
+    </edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="EventModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Groom">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="url" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="token" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+        </EntityType>
         <EntityType Name="image">
           <Key>
             <PropertyRef Name="id" />
@@ -55,32 +64,32 @@
           <Property Name="isCutFace" Type="Boolean" />
           <Property Name="isGroom" Type="Boolean" />
           <Property Name="isLight" Type="Boolean" />
-          <Property Name="isInside" Type="Boolean" />
+          <Property Name="isOutdoors" Type="Boolean" />
+          <Property Name="isIndoors" Type="Boolean" />
           <Property Name="hasChildren" Type="Boolean" />
-          <Property Name="hasYoung" Type="Boolean" />
-          <Property Name="hasAdults" Type="Boolean" />
           <Property Name="numPerson" Type="Int32" />
           <Property Name="isInRecycleBin" Type="Boolean" />
         </EntityType>
         <EntityContainer Name="EventEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Grooms" EntityType="Self.Groom" />
           <EntitySet Name="images" EntityType="Self.image" />
-          <EntitySet Name="Grooms" EntityType="EventModel.Groom" />
         </EntityContainer>
-        <EntityType Name="Groom">
-          <Key>
-            <PropertyRef Name="id" />
-          </Key>
-          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
-          <Property Name="url" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
-          <Property Name="token" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
-          <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
-        </EntityType>
       </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
         <EntityContainerMapping StorageEntityContainer="EventModelStoreContainer" CdmEntityContainer="EventEntities">
+          <EntitySetMapping Name="Grooms">
+            <EntityTypeMapping TypeName="EventModel.Groom">
+              <MappingFragment StoreEntitySet="Groom">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="url" ColumnName="url" />
+                <ScalarProperty Name="token" ColumnName="token" />
+                <ScalarProperty Name="name" ColumnName="name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
           <EntitySetMapping Name="images">
             <EntityTypeMapping TypeName="EventModel.image">
               <MappingFragment StoreEntitySet="image">
@@ -93,22 +102,11 @@
                 <ScalarProperty Name="isCutFace" ColumnName="isCutFace" />
                 <ScalarProperty Name="isGroom" ColumnName="isGroom" />
                 <ScalarProperty Name="isLight" ColumnName="isLight" />
-                <ScalarProperty Name="isInside" ColumnName="isInside" />
+                <ScalarProperty Name="isOutdoors" ColumnName="isOutdoors" />
+                <ScalarProperty Name="isIndoors" ColumnName="isIndoors" />
                 <ScalarProperty Name="hasChildren" ColumnName="hasChildren" />
-                <ScalarProperty Name="hasYoung" ColumnName="hasYoung" />
-                <ScalarProperty Name="hasAdults" ColumnName="hasAdults" />
                 <ScalarProperty Name="numPerson" ColumnName="numPerson" />
                 <ScalarProperty Name="isInRecycleBin" ColumnName="isInRecycleBin" />
-              </MappingFragment>
-            </EntityTypeMapping>
-          </EntitySetMapping>
-          <EntitySetMapping Name="Grooms">
-            <EntityTypeMapping TypeName="EventModel.Groom">
-              <MappingFragment StoreEntitySet="Groom">
-                <ScalarProperty Name="name" ColumnName="name" />
-                <ScalarProperty Name="token" ColumnName="token" />
-                <ScalarProperty Name="url" ColumnName="url" />
-                <ScalarProperty Name="id" ColumnName="id" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
